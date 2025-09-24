@@ -12,7 +12,7 @@ The system is built end-to-end with:
 
 ## 📂 Files Description  
 
-### 1. `MD_UAS_NO_1.ipynb`  
+### 1. `MD_CODE.ipynb`  
 Notebook for data science workflow:  
 - Data cleaning and preprocessing  
 - Encoding categorical features (e.g., gender, family history, transportation mode)  
